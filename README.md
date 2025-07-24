@@ -1,4 +1,5 @@
-👋 **Hello, I'm Gustavo**  
+# 👋 Hello, I'm Gustavo
+
 Software Developer | Fullstack Student | Brazil
 
 Welcome to my profile! I’m passionate about building clean and scalable applications using modern technologies. I enjoy solving real problems and improving my logic with each project I build.
@@ -10,13 +11,11 @@ Welcome to my profile! I’m passionate about building clean and scalable applic
 - Interested in clean architecture and good API and UI practices.
 - Always learning new tech to improve my skills in the tech world.
 
-## 🛠️ Exploring the Fullstack World 🖥️
+## 🚀 Aspiring Fullstack Developer
+I’m focused about JavaScript, Node.js, React, and TypeScript, building projects that boost my skills and help me level up to deliver clean and smart code.
 
-I focus on **Node.js, React, and TypeScript**, building projects to practice API integration, secure authentication, and clean UI. I like to turn ideas into real apps that help people while improving my coding and problem-solving skills.
-
-## ⭐ Objective
-
-My journey is about growing as a developer and learning to solve problems in a smart way. I aim to work on projects that challenge me, help me learn, and create a positive impact. If you want to collaborate or share ideas, feel free to reach out!
+## 🎯 Career Objective
+My journey is about growing as a developer, learning to solve problems in a smart way and joining a team that values growth. Ready to contribute and keep learning.
 
 ## 🚀 Tech Stack
 
