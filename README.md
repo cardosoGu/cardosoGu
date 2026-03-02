@@ -14,6 +14,12 @@
   </p>
 
   <!-- Badges -->
+<br/>
+<a href="https://cardosorepository.cardosogustavo667.workers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-cardosorepository-1f1f1f?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+  <br/><br/>
   <a href="mailto:Cardosogustavo@yahoo.com">
     <img src="https://img.shields.io/badge/Email-Cardosogustavo%40yahoo.com-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -23,6 +29,7 @@
   <a href="https://github.com/cardosoGu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-cardosoGu-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 
   <br/><br/>
 
