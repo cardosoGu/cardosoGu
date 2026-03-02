@@ -1,36 +1,106 @@
-# 👋 Hello, I'm Gustavo
+<!-- =======================
+  GUSTAVO CARDOSO | README
+  Estilo: dark + waving + gráficos + tech icons
+======================= -->
 
-Software Developer | BackEnd Student | Brazil
+<div align="center">
 
-Welcome to my profile! I’m passionate about building clean and scalable applications using modern technologies. I enjoy solving real problems and improving my logic with each project I build.
+  <!-- Header waving -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7a1c11,50:bf3b1f,100:7a1c11&text=Gustavo%20Cardoso&fontColor=ffffff&fontSize=48&fontAlignY=35" />
 
-## 📚 Summary
+  <p>
+    <strong>Desenvolvedor Backend</strong><br/>
+    APIs • Segurança • Performance • Node.js/TypeScript • Java/Spring
+  </p>
 
-- Software Development student focused on BackEnd.
-- Backend & Frontend Developer building scalable apps.
-- Interested in clean architecture and good API and UI practices.
-- Always learning new tech to improve my skills in the tech world.
+  <!-- Badges -->
+  <a href="mailto:Cardosogustavo@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Cardosogustavo%40yahoo.com-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavocardoso08/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-gustavocardoso08-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/cardosoGu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-cardosoGu-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-## 🚀 Aspiring BackEnd Developer
-I’m focused about JAVA, JavaScript, TypeScript and Node.js, building projects that boost my skills and help me level up to deliver clean and smart code.
+  <br/><br/>
 
-## 🎯 Career Objective
-My journey is about growing as a developer, learning to solve problems in a smart way and joining a team that values growth. Ready to contribute and keep learning.
+</div>
 
-## 🚀 Main Stack
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+## Sobre mim
+Sou desenvolvedor backend com foco em desenvolvimento web e criação de APIs. Tenho experiência em projetos próprios e em ambiente de startup, utilizando tecnologias modernas como **TypeScript/Node.js**, além de **Java** e **Spring Boot**.  
+Atuo com foco em **segurança, performance e organização de código**.
 
-## 🌍💻 Let's Connect
+- Localização: **Salto - SP**
+- Contato: **Cardosogustavo@yahoo.com** | **(11) 96154-0505**
+- Inglês: **B2 (Intermediário)**
 
-I believe in strategic coding, continuous learning, and building real solutions. Let’s work together and make a difference in the tech world. ⚡
+---
+
+## Stack & Ferramentas
+
+### Backend
+![JS](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+### Banco de Dados / ORM
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+### Frontend (base)
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+
+### DevTools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+---
+
+
+## Métricas do GitHub
+
+<div align="center">
+  <br/>
+
+  <!-- Streak -->
+  <img height="170" src="https://streak-stats.demolab.com?user=cardosoGu&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Graph
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cardosoGu&theme=tokyo-night&hide_border=true&radius=8" />
+</div>
+
+---
+
+<details>
+  <summary><strong>English version</strong></summary>
+
+  ### About
+  Backend developer focused on web development and API design, prioritizing security, performance and clean architecture.
+
+  ### Tech
+  TypeScript/Node.js (Fastify), Java (Spring Boot), PostgreSQL/MongoDB, Prisma, Git/GitHub, Docker (basic).
+
+</details>
+
+---
+
+<div align="center">
+  <!-- Footer waving -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7a1c11,50:bf3b1f,100:7a1c11&section=footer" />
+</div>
