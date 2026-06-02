@@ -62,10 +62,9 @@ Atuo com foco em **segurança, performance e organização de código**.
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 
 ### Frontend (base)
+![NEXT](https://skillicons.dev/icons?i=next)
 ![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
+![TAILWIND](https://skillicons.dev/icons?i=tailwind)
 
 ### DevTools
 ![Git](https://skillicons.dev/icons?i=git)
