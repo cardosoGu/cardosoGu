@@ -61,10 +61,14 @@ Atuo com foco em **segurança, performance e organização de código**.
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
 
+### Test
+![jest](https://skillicons.dev/icons?i=jest)
+![vitest](https://skillicons.dev/icons?i=vitest)
+
 ### Frontend (base)
-![NEXT](https://skillicons.dev/icons?i=next)
+![Next](https://skillicons.dev/icons?i=next)
 ![React](https://skillicons.dev/icons?i=react)
-![TAILWIND](https://skillicons.dev/icons?i=tailwind)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### DevTools
 ![Git](https://skillicons.dev/icons?i=git)
