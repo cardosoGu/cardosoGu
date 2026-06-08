@@ -3,36 +3,29 @@
   Estilo: dark + waving + gráficos + tech icons
 ======================= -->
 
-<div align="center">
+<div align="left">
 
   <!-- Header waving -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7a1c11,50:bf3b1f,100:7a1c11&text=Gustavo%20Cardoso&fontColor=ffffff&fontSize=48&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&text=Gustavo%20Cardoso&fontColor=ffffff&fontSize=48&fontAlignY=35" />
 
-  <p>
+  <p align="center">
     <strong>Desenvolvedor Backend</strong><br/>
     APIs • Segurança • Performance • Node.js/TypeScript • Java/Spring
   </p>
-
-  <!-- Badges -->
 <br/>
-<a href="https://cardoso-woad.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-cardosorepository-1f1f1f?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
+  <!-- Badges -->
+<div align="center">
+  <a href="https://discord.com/users/564306202767523841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://cardoso-woad.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-6B7280?style=for-the-badge" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavocardoso08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cardosogustavo667@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- ![snake gif](https://github.com/meirelleshugo/meirelleshugo/blob/output/github-contribution-grid-snake.svg)   -->
+</div>
 
-  <br/><br/>
-  <a href="mailto:Cardosogustavo@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Cardosogustavo%40yahoo.com-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavocardoso08/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-gustavocardoso08-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/cardosoGu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-cardosoGu-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<br/>
 
-
-  <br/><br/>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&section=footer" />
 </div>
 
 ---
@@ -97,20 +90,16 @@ Atuo com foco em **segurança, performance e organização de código**.
 
 ---
 
-<details>
-  <summary><strong>English version</strong></summary>
-
-  ### About
-  Backend developer focused on web development and API design, prioritizing security, performance and clean architecture.
-
-  ### Tech
-  TypeScript/Node.js (Fastify), Java (Spring Boot), PostgreSQL/MongoDB, Prisma, Git/GitHub, Docker (basic).
-
-</details>
-
+## English Version
+ 
+Backend developer based in Brazil, experienced in startup environments and personal projects. I build APIs with a focus on security, performance, and clean architecture.
+ 
+**Stack:** TypeScript/Node.js (Fastify), Java (Spring Boot), PostgreSQL, MongoDB, Prisma, Git/GitHub, Docker.  
+**English level:** B2 (Upper-Intermediate)  
+**Contact:** Cardosogustavo@yahoo.com | [LinkedIn](https://www.linkedin.com/in/gustavocardoso08/) | [Portfolio](https://cardoso-woad.vercel.app/)
+ 
 ---
-
+ 
 <div align="center">
-  <!-- Footer waving -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7a1c11,50:bf3b1f,100:7a1c11&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&section=footer" />
 </div>
