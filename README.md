@@ -24,9 +24,7 @@
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&section=footer" />
-</div>
+
 
 ---
 
@@ -103,3 +101,4 @@ Backend developer based in Brazil, experienced in startup environments and perso
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&section=footer" />
 </div>
+
