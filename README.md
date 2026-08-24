@@ -8,11 +8,13 @@
   <!-- Header waving -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&text=Gustavo%20Cardoso&fontColor=ffffff&fontSize=48&fontAlignY=35" />
 
+
   <p align="center">
     <strong>Desenvolvedor Backend</strong><br/>
     APIs • Segurança • Performance • Node.js/TypeScript • Java/Spring
   </p>
 <br/>
+
   <!-- Badges -->
 <div align="center">
   <a href="https://discord.com/users/564306202767523841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -24,7 +26,9 @@
 
 <br/>
 
-
+<div align="center">
+<a href="https://github.com/cardosoGu"> <img width="45%" src="https://streak-stats.demolab.com/?user=cardosoGu&theme=dark&hide_border=true&background=050816&ring=2563eb&fire=3b82f6&currStreakLabel=60a5fa&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&locale=en&timezone=America%2FSao_Paulo" /> </a>
+</div>
 
 ---
 
@@ -68,24 +72,18 @@ Atuo com foco em **segurança, performance e organização de código**.
 
 ---
 
-
-## Métricas do GitHub
+## Contribution Graph
 
 <div align="center">
-  <br/>
-
-  <!-- Streak -->
-  <img height="170" src="https://streak-stats.demolab.com?user=cardosoGu&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
+<br/><br/>
 
-## Contribution Graph
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cardosoGu&theme=tokyo-night&hide_border=true&radius=8" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=cardosoGu&bg_color=050816&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true&radius=8" />
+
 </div>
 
+<br/>
 ---
 
 ## English Version
