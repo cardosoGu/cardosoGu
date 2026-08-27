@@ -1,102 +1,81 @@
 <!-- =======================
   GUSTAVO CARDOSO | README
-  Estilo: dark + waving + gráficos + tech icons
+  Backend Developer • Software Engineering
 ======================= -->
 
-<div align="left">
+<div align="center">
 
-  <!-- Header waving -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&text=Gustavo%20Cardoso&fontColor=ffffff&fontSize=48&fontAlignY=35" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&text=Gustavo%20Cardoso&fontColor=ffffff&fontSize=48&fontAlignY=35"
+  />
 
-
-  <p align="center">
-    <strong>Desenvolvedor Backend</strong><br/>
-    APIs • Segurança • Performance • Node.js/TypeScript • Java/Spring
+  <p>
+    <strong>Backend Developer</strong><br/>
+    Node.js • TypeScript • MongoDB • APIs • Software Engineering
   </p>
-<br/>
 
-  <!-- Badges -->
-<div align="center">
-  <a href="https://discord.com/users/564306202767523841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://cardoso-woad.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-6B7280?style=for-the-badge" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/gustavocardoso08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cardosogustavo667@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- ![snake gif](https://github.com/meirelleshugo/meirelleshugo/blob/output/github-contribution-grid-snake.svg)   -->
-</div>
+  <p>
+    <a href="https://www.linkedin.com/in/gustavocardoso08/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://cardoso-woad.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="mailto:cardosogustavo667@yahoo.com">
+      <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/564306202767523841" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+  </p>
 
-<br/>
-
-<div align="center">
-<a href="https://github.com/cardosoGu"> <img width="45%" src="https://streak-stats.demolab.com/?user=cardosoGu&theme=dark&hide_border=true&background=050816&ring=2563eb&fire=3b82f6&currStreakLabel=60a5fa&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&locale=en&timezone=America%2FSao_Paulo" /> </a>
 </div>
 
 ---
 
 ## Sobre mim
-Sou desenvolvedor backend com foco em desenvolvimento web e criação de APIs. Tenho experiência em projetos próprios e em ambiente de startup, utilizando tecnologias modernas como **TypeScript/Node.js**, além de **Java** e **Spring Boot**.  
-Atuo com foco em **segurança, performance e organização de código**.
 
-- Localização: **Salto - SP**
-- Contato: **Cardosogustavo@yahoo.com** | **(11) 96154-0505**
-- Inglês: **B2 (Intermediário)**
+Sou **Backend Developer** com foco no desenvolvimento de APIs e sistemas utilizando principalmente **Node.js, TypeScript e MongoDB**.
+
+Minha atuação envolve desde a **especificação** até a implementação das soluções. Busco compreender o problema e os requisitos do negócio antes de definir a abordagem técnica, sempre considerando aspectos como arquitetura, segurança, performance e escalabilidade.
+
+Tenho experiência com diferentes desafios de backend, incluindo autenticação e autorização, integrações externas, pagamentos, bancos de dados SQL e NoSQL, cache, processamento assíncrono e testes. Meu objetivo é construir sistemas **bem estruturados, escaláveis e sustentáveis**, com código organizado e decisões técnicas coerentes com o contexto do projeto.
+
+Além da atuação profissional, desenvolvo **projetos pessoais** para aprofundar meus conhecimentos, experimentar diferentes tecnologias e colocar em prática conceitos de engenharia de software.
+
+Atualmente, curso graduação na área de tecnologia e possuo **inglês nível B2 (Upper-Intermediate)**.
 
 ---
 
-## Stack & Ferramentas
+## Stack
 
 ### Backend
-![JS](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
 
-### Banco de Dados / ORM
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Prisma](https://skillicons.dev/icons?i=prisma)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,java,spring" />
+</p>
 
-### Test
-![jest](https://skillicons.dev/icons?i=jest)
-![vitest](https://skillicons.dev/icons?i=vitest)
+### Databases
 
-### Frontend (base)
-![Next](https://skillicons.dev/icons?i=next)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
 
-### DevTools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
+### Testing
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
+</p>
 
-## Contribution Graph
+### Infrastructure & Tools
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
 
----
-<br/><br/>
+### Frontend
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=cardosoGu&bg_color=050816&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true&radius=8" />
-
-</div>
-
-<br/>
----
-
-## English Version
- 
-Backend developer based in Brazil, experienced in startup environments and personal projects. I build APIs with a focus on security, performance, and clean architecture.
- 
-**Stack:** TypeScript/Node.js (Fastify), Java (Spring Boot), PostgreSQL, MongoDB, Prisma, Git/GitHub, Docker.  
-**English level:** B2 (Upper-Intermediate)  
-**Contact:** Cardosogustavo@yahoo.com | [LinkedIn](https://www.linkedin.com/in/gustavocardoso08/) | [Portfolio](https://cardoso-woad.vercel.app/)
- 
----
- 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1b4b,50:1a4fd6,100:0d1b4b&section=footer" />
-</div>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
