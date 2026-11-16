@@ -30,7 +30,19 @@
     </a>
   </p>
 
+
+
 </div>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/cardosoGu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardosoGu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
